@@ -1,6 +1,6 @@
 #this module contain faculty functionality
 
 def login():
-	pass
-
+	print("login functionality")
+	print("redirecting to new view")
 
